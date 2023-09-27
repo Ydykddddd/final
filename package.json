@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "expressjs": "^1.0.1",
+    "mysql": "^2.18.1",
+    "sqlite": "^5.0.1",
+    "whatsapp-web.js": "^1.22.1"
+  },
+  "name": "athkam-asapuwa-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
